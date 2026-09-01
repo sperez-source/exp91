@@ -1,0 +1,3 @@
+tool-isolation-marker
+date=2026-09-01
+purpose=draft-pr-create-test
